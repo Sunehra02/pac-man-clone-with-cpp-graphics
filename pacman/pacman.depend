@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1765728938 source:c:\users\hp\onedrive\iiuc\cce-3606\pacman\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
