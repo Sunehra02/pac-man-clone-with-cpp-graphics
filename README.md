@@ -6,13 +6,13 @@ This is a pac-man clone made using C++ graphics. The program was written and com
 ---
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/65befb1a-c0a2-4401-8e8a-ccffaaf7fbc7" />
 
-Figure – 01: Gameplay in Progress
+Figure – 01: Game Start Screen
 
 ---
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f086d974-c7b4-4fbf-a91c-1a3fdc7fa742" />
 
-Figure – 02: Game Start Screen
+Figure – 02: Gameplay in Progress
 
 ---
 
