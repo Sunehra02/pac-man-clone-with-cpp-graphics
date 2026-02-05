@@ -8,18 +8,18 @@ This is a pac-man clone made using C++ graphics. The program was written and com
 Figure – 01: Game Start Screen
 
 ---
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3b5f3a05-8314-49ca-b607-ffa8e326e6cb" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/65befb1a-c0a2-4401-8e8a-ccffaaf7fbc7" />
 
 Figure – 02: Gameplay in Progress
 
 ---
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f3a3d4ff-fbdd-4c85-adc9-7553de388ec7" />
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3b5f3a05-8314-49ca-b607-ffa8e326e6cb" />
 
 Figure – 03: Game Win Screen
 
 ---
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/65befb1a-c0a2-4401-8e8a-ccffaaf7fbc7" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f3a3d4ff-fbdd-4c85-adc9-7553de388ec7" />
 
 Figure – 04: Game Over Screen
 
